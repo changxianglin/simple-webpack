@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "xianglin <281532612@qq.com> (http://zhourong.host/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-traverse": "^6.26.0",
+    "babylon": "^6.18.0",
+    "babylonjs": "^4.0.3"
+  }
 }
